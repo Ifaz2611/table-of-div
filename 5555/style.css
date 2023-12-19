@@ -1,0 +1,284 @@
+.main_table{
+    width: 800px;
+    height: 600px;
+    background-color: #ddd42b;
+}
+.z1{
+    width: 800px;
+    height: 240px;
+    background-color: black
+}
+.z2{
+    width: 800px;
+    height: 180px;
+    background-color: #d6a9ad;
+}
+.z3{
+    width: 800px;
+    height: 180px;
+    background-color: #431423;
+}
+.z4{
+    width: 240px;
+    height: 240px;
+    background-color: #f3f317;
+    float: left;
+}
+.z5{
+    width: 320px;
+    height: 240px;
+    background-color: #cf392b;
+    float: left;
+}
+.z6{
+    width: 240px;
+    height: 240px;
+    background-color: #342ab9;
+    float: left;
+}
+.z7{
+    width: 240px;
+    height: 60px;
+    background-color: #ffc2cf58;
+}
+.z8{
+    width: 240px;
+    height: 180px;
+    background-color: #a9ffa8;
+}
+.z9{
+    width: 130px;
+    height: 180px;
+    background-color: #36003e;
+    float: left;
+}
+.z10{
+    width: 110px;
+    height: 180px;
+    background-color: #49ff73;
+    float: left;
+}
+.z11{
+    width: 130px;
+    height: 90px;
+    background-color: #290f35;
+}
+.z12{
+    width: 130px;
+    height: 90px;
+    background-color: #59f7e7;
+}
+.z13{
+    width: 65px;
+    height: 90px;
+    background-color: #5A2692;
+    float: left;
+}
+.z14{
+    width: 65px;
+    height: 90px;
+    background-color: #51455E;
+    float: left;
+}
+.z15{
+    width: 320px;
+    height: 120px;
+    background-color: #DDD3E8;
+}
+.z16{
+    width: 320px;
+    height: 120px;
+    background-color: #C28FFA;
+}
+.z17{
+    width: 160px;
+    height: 120px;
+    background-color: #7426C9;
+    float: left;
+}
+.z18{
+    width: 160px;
+    height: 120px;
+    background-color: #A426C9;
+    float: left;
+}
+.z19{
+    width: 800px;
+    height: 90px;
+    background-color: #690986;
+}
+.z20{
+    width: 800px;
+    height: 90px;
+    background-color: #9141BE;
+}
+.z21{
+    width: 220px;
+    height: 90px;
+    background-color: #3A0A48;
+    float: left;
+}
+.z22{
+    width: 580px;
+    height: 90px;
+    background-color: #E08AF9;
+    float: left;
+}
+.z23{
+    width: 580px;
+    height: 45px;
+    background-color: #8A95F9;
+}
+.z24{
+    width: 580px;
+    height: 45px;
+    background-color: #2130BA;
+}
+.z25{
+    width: 460px;
+    height: 180px;
+    background-color: #3C4953;
+    float: left;
+}
+.z26{
+    width: 340px;
+    height: 180px;
+    background-color: #1E5E8F;
+    float: left;
+}
+.z27{
+    width: 460px;
+    height: 60px;
+    background-color: #2b4153;
+}
+.z28{
+    width: 460px;
+    height: 60px;
+    background-color: #0091ff;
+}
+.z29{
+    width: 460px;
+    height: 60px;
+    background-color: #00294a;
+}
+.z30{
+    width: 230px;
+    height: 60px;
+    background-color: rgb(128, 0, 85);
+    float: left;
+}
+.z31{
+    width: 230px;
+    height: 60px;
+    background-color:#26a62f;
+    float: left;
+}
+.z32{
+    width: 120px;
+    height: 60px;
+    background-color: #ffeffa;
+    float: left;
+}
+.z33{
+    width: 220px;
+    height: 60px;
+    background-color: #946987;
+    float: left;
+}
+.z34{
+    width: 120px;
+    height: 60px;
+    background-color: #477d82;
+    float: left;
+}
+.z35{
+    width: 220px;
+    height: 30px;
+    background-color: #1c3900;
+}
+.z36{
+    width: 220px;
+    height: 30px;
+    background-color: #578b25;
+}
+.z37{
+    width: 340px;
+    height: 90px;
+    background-color: #696968;
+}
+.z38{
+    width: 340px;
+    height: 90px;
+    background-color: #b95c23;
+}
+.z39{
+    width: 150px;
+    height: 90px;
+    background-color: #db5b30;
+    float: left;
+}
+.z40{
+    width: 190px;
+    height: 90px;
+    background-color: #6ba337;
+    float: left;
+}
+.z41{
+    width: 190px;
+    height: 45px;
+    background-color: #ff9900;
+}
+.table42{
+    width: 190px;
+    height: 45px;
+    background-color: #ffbe5d;
+}
+.z43{
+    width: 170px;
+    height: 90px;
+    background-color: #72f8ff;
+    float: left;
+}
+.z44{
+    width: 170px;
+    height: 90px;
+    background-color: #38f5ff;
+    float: left;
+}
+.z45{
+    width: 170px;
+    height: 30px;
+    background-color: #2358D7;
+}
+.z46{
+    width: 170px;
+    height: 30px;
+    background-color: #003143;
+}
+.z47{
+    width: 170px;
+    height: 30px;
+    background-color: #0f759e;
+}
+.z48{
+    width: 85px;
+    height: 30px;
+    background-color: #8e64e8;
+    float: left;
+}
+.z49{
+    width: 85px;
+    height: 30px;
+    background-color: #250e1d;
+    float: left;
+}
+.z50{
+    width: 85px;
+    height: 15px;
+    background-color: #6b0017;
+}
+.z51{
+    width: 85px;
+    height: 15px;
+    background-color: #ffb0c1;
+}
